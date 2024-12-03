@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "uyennhi",
-    "password": "peSAK9cjoqFx2FAlA80dUUUcnzWNUEMi",
-    "database": "crudexercise",
-    "host": "dpg-ct7ifm5ds78s73d6ncag-a",
+    "username": "postgres_crud_exercise_22127313_user",
+    "password": "tW9zc0LrVylt8uRDeQKeO9GWuuV6Ugjl",
+    "database": "postgres_crud_exercise_22127313",
+    "host": "dpg-ct7k8n08fa8c73b2255g-a",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
@@ -13,10 +13,10 @@
     }
   },
   "test": {
-    "username": "uyennhi",
-    "password": "peSAK9cjoqFx2FAlA80dUUUcnzWNUEMi",
-    "database": "crudexercise",
-    "host": "dpg-ct7ifm5ds78s73d6ncag-a",
+    "username": "postgres_crud_exercise_22127313_user",
+    "password": "tW9zc0LrVylt8uRDeQKeO9GWuuV6Ugjl",
+    "database": "postgres_crud_exercise_22127313",
+    "host": "dpg-ct7k8n08fa8c73b2255g-a",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
@@ -26,10 +26,10 @@
     }
   },
   "production": {
-    "username": "uyennhi",
-    "password": "peSAK9cjoqFx2FAlA80dUUUcnzWNUEMi",
-    "database": "crudexercise",
-    "host": "dpg-ct7ifm5ds78s73d6ncag-a",
+    "username": "postgres_crud_exercise_22127313_user",
+    "password": "tW9zc0LrVylt8uRDeQKeO9GWuuV6Ugjl",
+    "database": "postgres_crud_exercise_22127313",
+    "host": "dpg-ct7k8n08fa8c73b2255g-a",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
