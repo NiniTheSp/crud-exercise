@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "22127313",
-    "database": "crud_exercise",
-    "host": "127.0.0.1",
+    "username": "uyennhi",
+    "password": "peSAK9cjoqFx2FAlA80dUUUcnzWNUEMi",
+    "database": "crudexercise",
+    "host": "dpg-ct7ifm5ds78s73d6ncag-a",
     "dialect": "postgres"
   },
   "test": {
